@@ -3,7 +3,7 @@
 #include<stdbool.h>
 #include<string.h>
 
-#define FILENAME 32
+#define FILENAME 30
 #define PAGE_TABLE_ENTRIES 256
 #define PAGE_SIZE 256
 #define TABLE_ENTRIES 16
